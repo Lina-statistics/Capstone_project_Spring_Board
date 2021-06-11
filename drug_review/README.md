@@ -10,16 +10,14 @@
 ![image](https://user-images.githubusercontent.com/54960730/121741899-1e46e080-cacd-11eb-89e6-edd1bddacda8.png)
 
 ## Feature engineering [🔗](https://github.com/Lina-statistics/Springboard-Capstone-Projects/blob/main/drug_review/drug_review_feature_engineering.ipynb)
-* How can we extract useful features from the review column of the data? ![image](https://user-images.githubusercontent.com/54960730/121743002-a5488880-cace-11eb-881c-21db03c3bc16.png)
-
+* How can we extract useful features from the review column of the data? ![image](https://user-images.githubusercontent.com/54960730/121744863-87c8ee00-cad1-11eb-9ddd-6f24e5396165.png)
 ![image](https://user-images.githubusercontent.com/54960730/121743044-b2fe0e00-cace-11eb-9806-bd44a2e37e59.png)
 
 ## Regression modeling [🔗](https://github.com/Lina-statistics/Springboard-Capstone-Projects/blob/main/drug_review/drug_review_rating_model.ipynb) 
-* Can we develop a proper regression model to predict the rating of the reviews? ![image](https://user-images.githubusercontent.com/54960730/121743606-99a99180-cacf-11eb-84b2-14cf9e22410d.png)
-
-![image](https://user-images.githubusercontent.com/54960730/121743696-bb0a7d80-cacf-11eb-8c62-70fe44e3743b.png)
+* Can we develop a proper regression model to predict the rating of the reviews? ![image](https://user-images.githubusercontent.com/54960730/121744840-7d0e5900-cad1-11eb-9506-36dc0f4adaee.png)
+![image](https://user-images.githubusercontent.com/54960730/121744717-4d5f5100-cad1-11eb-96df-a14cad651fd6.png)
 
 ## Classification modeling [🔗](https://github.com/Lina-statistics/Springboard-Capstone-Projects/blob/main/drug_review/drug_review_classification_model.ipynb)
-* What if we convert the problem into a classification one? Can we get good results? ![image](https://user-images.githubusercontent.com/54960730/121744165-7c28f780-cad0-11eb-9b48-50a53747c861.png)
+* What if we convert the problem into a classification one? Can we get good results? ![image](https://user-images.githubusercontent.com/54960730/121744805-7253c400-cad1-11eb-99b6-6b4ef9e0e200.png)
+![image](https://user-images.githubusercontent.com/54960730/121744763-5bad6d00-cad1-11eb-8606-3c4693344da0.png)
 
-![image](https://user-images.githubusercontent.com/54960730/121744322-b7c3c180-cad0-11eb-8c2e-8ba540147c5d.png)
