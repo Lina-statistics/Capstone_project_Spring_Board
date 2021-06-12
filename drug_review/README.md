@@ -21,3 +21,4 @@
 * What if we convert the problem into a classification one? Can we get good results? ![image](https://user-images.githubusercontent.com/54960730/121744805-7253c400-cad1-11eb-99b6-6b4ef9e0e200.png)
 ![image](https://user-images.githubusercontent.com/54960730/121744763-5bad6d00-cad1-11eb-8606-3c4693344da0.png)
 
+## Final report and presentation slides [🔗](https://github.com/Lina-statistics/Springboard-Capstone-Projects/blob/main/drug_review/Drug%20Review%20Rating%20Prediction_report.pdf) [🔗](https://github.com/Lina-statistics/Springboard-Capstone-Projects/blob/main/drug_review/drug%20review%20slides.pdf)
